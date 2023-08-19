@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guessing_Number</string>
+    <string name="info">Please select a number Digit.
+    The number of digit you select and I keep in my mind will be the same.
+        And don\'t forget that you have only 10 guesses.
+    </string>
+</resources>
